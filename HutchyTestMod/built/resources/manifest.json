@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "HutchyTestMod",
+    "description": "Cool Stuff",
+    "uuid": "70a8b723-05f1-46cf-92c8-2832f94ca93d",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for HutchyTestMod",
+      "type": "resources",
+      "uuid": "f03c71bd-7370-4d3b-9678-54c35c815611",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
